@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: edu.eci.cvds.parcial.ECICredit.service.PaymentServiceTest
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.385 s -- in edu.eci.cvds.parcial.ECICredit.service.PaymentServiceTest

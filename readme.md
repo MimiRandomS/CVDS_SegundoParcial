@@ -113,7 +113,8 @@ public class CorsConfig {
 ![Azure2.png](assets%2Fimgs%2FAzure2.png)
 3. **Desplegar la aplicación con Azure DevOps o GitHub Actions**
 ![Azure3.png](assets%2Fimgs%2FAzure3.png)
-4. **Probar la API desplegada**
+![Azure4.png](assets%2Fimgs%2FAzure4.png)
+4. **Probar la API desplegada**: Enlace = https://parcialecicredit-cnfxd0b0f3c4aabz.canadacentral-01.azurewebsites.net/
 
 ---
 
