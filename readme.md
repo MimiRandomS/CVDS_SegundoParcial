@@ -77,7 +77,7 @@ spring.data.mongodb.database=ECICredit
 #### Aprobado
 ![postman1.png](assets%2Fimgs%2Fpostman1.png)
 #### Declinado
-
+![postman3.png](assets%2Fimgs%2Fpostman3.png)
 
 ### **Obtener todos los pagos**
 ![postman2.png](assets%2Fimgs%2Fpostman2.png)

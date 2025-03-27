@@ -58,7 +58,8 @@ public class PaymentServiceImpl implements PaymentService {
         Date datePayment = parseDate(date);
 
         Payment payment = new Payment(datePayment, status, totalAmount, detailArticles, totalPaid);
-        return paymentRepository.save(payment);
+        paymentRepository.save(payment);
+        return payment;
     }
 
     private DetailArticle createDetailArticle(Tuple<String, Integer, Integer> article) {
