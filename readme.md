@@ -1,5 +1,6 @@
 # Segundo Parcial
-## 1. Generación de la estructura del proyecto con Spring Initializr
+## 1. Generación de la 
+estructura del proyecto con Spring Initializr
 
 Para iniciar el proyecto, utilizamos [Spring Initializr](https://start.spring.io/) con la siguiente configuración:
 
@@ -107,8 +108,11 @@ public class CorsConfig {
 
 ## 7. Despliegue en Azure
 1. **Entrar en el portal de Azure**
+![Azure1.png](assets%2Fimgs%2FAzure1.png)
 2. **Crear un recurso App Service**
+![Azure2.png](assets%2Fimgs%2FAzure2.png)
 3. **Desplegar la aplicación con Azure DevOps o GitHub Actions**
+![Azure3.png](assets%2Fimgs%2FAzure3.png)
 4. **Probar la API desplegada**
 
 ---
