@@ -5,8 +5,8 @@ import lombok.NoArgsConstructor;
 
 import java.util.List;
 
-@NoArgsConstructor
 @Getter
+@NoArgsConstructor
 public class PaymentRequest {
     private String date;
     private List<Tuple<String, Integer, Integer>> articles;

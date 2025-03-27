@@ -1,0 +1,16 @@
+C:\Users\geronimo.martinez-n\Downloads\CVDS_SegundoParcial\src\main\java\edu\eci\cvds\parcial\ECICredit\config\CorsConfig.java
+C:\Users\geronimo.martinez-n\Downloads\CVDS_SegundoParcial\src\main\java\edu\eci\cvds\parcial\ECICredit\controller\PaymentController.java
+C:\Users\geronimo.martinez-n\Downloads\CVDS_SegundoParcial\src\main\java\edu\eci\cvds\parcial\ECICredit\EciCreditApplication.java
+C:\Users\geronimo.martinez-n\Downloads\CVDS_SegundoParcial\src\main\java\edu\eci\cvds\parcial\ECICredit\models\DateUtils.java
+C:\Users\geronimo.martinez-n\Downloads\CVDS_SegundoParcial\src\main\java\edu\eci\cvds\parcial\ECICredit\models\DetailArticle.java
+C:\Users\geronimo.martinez-n\Downloads\CVDS_SegundoParcial\src\main\java\edu\eci\cvds\parcial\ECICredit\models\enums\PaymentStatus.java
+C:\Users\geronimo.martinez-n\Downloads\CVDS_SegundoParcial\src\main\java\edu\eci\cvds\parcial\ECICredit\models\Payment.java
+C:\Users\geronimo.martinez-n\Downloads\CVDS_SegundoParcial\src\main\java\edu\eci\cvds\parcial\ECICredit\models\PaymentRequest.java
+C:\Users\geronimo.martinez-n\Downloads\CVDS_SegundoParcial\src\main\java\edu\eci\cvds\parcial\ECICredit\models\Product.java
+C:\Users\geronimo.martinez-n\Downloads\CVDS_SegundoParcial\src\main\java\edu\eci\cvds\parcial\ECICredit\models\Tuple.java
+C:\Users\geronimo.martinez-n\Downloads\CVDS_SegundoParcial\src\main\java\edu\eci\cvds\parcial\ECICredit\repository\PaymentRepository.java
+C:\Users\geronimo.martinez-n\Downloads\CVDS_SegundoParcial\src\main\java\edu\eci\cvds\parcial\ECICredit\repository\ProductRepository.java
+C:\Users\geronimo.martinez-n\Downloads\CVDS_SegundoParcial\src\main\java\edu\eci\cvds\parcial\ECICredit\service\impl\PaymentServiceImpl.java
+C:\Users\geronimo.martinez-n\Downloads\CVDS_SegundoParcial\src\main\java\edu\eci\cvds\parcial\ECICredit\service\impl\ProductServiceImpl.java
+C:\Users\geronimo.martinez-n\Downloads\CVDS_SegundoParcial\src\main\java\edu\eci\cvds\parcial\ECICredit\service\PaymentService.java
+C:\Users\geronimo.martinez-n\Downloads\CVDS_SegundoParcial\src\main\java\edu\eci\cvds\parcial\ECICredit\service\ProductService.java
