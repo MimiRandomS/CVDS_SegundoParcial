@@ -1,7 +1,6 @@
 # Segundo Parcial
 * Nombre: Geronimo Martinez Nuñez
-## 1. Generación de la 
-estructura del proyecto con Spring Initializr
+## 1. Generación de la estructura del proyecto con Spring Initializr
 
 Para iniciar el proyecto, utilizamos [Spring Initializr](https://start.spring.io/) con la siguiente configuración:
 
