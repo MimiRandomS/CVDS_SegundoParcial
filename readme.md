@@ -1,4 +1,5 @@
 # Segundo Parcial
+* Nombre: Geronimo Martinez Nuñez
 ## 1. Generación de la 
 estructura del proyecto con Spring Initializr
 
