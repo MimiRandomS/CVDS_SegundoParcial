@@ -115,7 +115,7 @@ public class CorsConfig {
 3. **Desplegar la aplicación con Azure DevOps o GitHub Actions**
 ![Azure3.png](assets%2Fimgs%2FAzure3.png)
 ![Azure4.png](assets%2Fimgs%2FAzure4.png)
-4. **Probar la API desplegada**: Enlace = https://parcialecicredit-cnfxd0b0f3c4aabz.brazilsouth-01.azurewebsites.net
+4. **Probar la API desplegada**: Enlace = [https://parcialecicredit-cnfxd0b0f3c4aabz.brazilsouth-01.azurewebsites.net](https://parcialecicredit-cnfxd0b0f3c4aabz.brazilsouth-01.azurewebsites.net/)
 
 Repositorio del frontend: https://github.com/MimiRandomS/CVDS_SegundoParcialFront
 
